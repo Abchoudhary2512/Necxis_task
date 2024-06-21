@@ -1,0 +1,22 @@
+
+Create a project like Instagram
+User can post photos upto 5 MB
+User can add description about that photo before uploading (optional)
+
+Once a post has been uploaded successfully. Now it should be available to the public. and they can
+like that post
+Comment on post
+
+
+Note: The number of likes and comments should be updated live (use socket.io for this) and should be visible at the same time on other users screen so that any other user can also see the updated number of likes and comments on that post.
+
+
+Framework/Library which you can use
+Next.js (latest with App Router)
+Axios
+Socket.io
+Material-UI
+
+
+Backend
+Create api and socket rooms using NodeJs,express,multer and socket.io
